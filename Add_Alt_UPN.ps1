@@ -1,4 +1,6 @@
-#Adds an alternative upn suffix to a list of users, defined by their SamAccountName
+####################################################################################
+#Adds an alternative upn suffix to a list of users, defined by their SamAccountName#
+####################################################################################
 
 Import-Module activedirectory
 
